@@ -1,6 +1,6 @@
 # crypto-js 应用在vue2.0
 
-> A Vue.js +DES +MD5  加密
+> A Vue.js +DES +MD5  加密 demo
 > 
 > 全局使用 
 > > this.getAES(要加密的文本，秘钥)   //DES加密
