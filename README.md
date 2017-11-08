@@ -7,7 +7,7 @@
 > 
 > > this.getDAes(要解密的文本，秘钥)   //DES解密
 > 
-> >this,getMD5(要加密的文本) //MD5加密
+> >this.getMD5(要加密的文本) //MD5加密
 
 ## Build Setup
 
