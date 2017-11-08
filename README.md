@@ -1,6 +1,13 @@
-# project
+# crypto-js 应用在vue2.0
 
-> A Vue.js project
+> A Vue.js +DES +MD5  加密
+> 
+> 全局使用 
+> > this.getAES(要加密的文本，秘钥)   //DES加密
+> 
+> > this.getDAes(要解密的文本，秘钥)   //DES解密
+> 
+> >this,getMD5(要加密的文本) //MD5加密
 
 ## Build Setup
 
